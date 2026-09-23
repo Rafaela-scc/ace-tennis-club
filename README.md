@@ -1,7 +1,7 @@
-# Country Club Ace 🎾🌅
+# Tennis Club Ace 🎾🌅
 
 ## 🎯 Overview
-**Country Club Ace** is a frontend project for a fictional tennis club. It presents the club's activities, available programs, membership benefits, and pricing plans. 
+**Tennis Club Ace** is a frontend project for a fictional tennis club. It presents the club's activities, available programs, membership benefits, and pricing plans. 
 
 ## 🛠️ Tech Stack & Implementation
 * **Figma:** Initial UI/UX wireframing and prototyping.
