@@ -1,7 +1,12 @@
-# Projeto Clube Ace ​🎾​🌅​
-### Intuito:
-Esse projeto é um clube de tênis ficticio. Ele mostra as atividades que o clube oferece como programas, as vantagens que ser um membro do clube e os preços para ser um integrante.
-### Ferramentas: 
-Ele foi feito em HTML e uma parte foi feita no Figma. Foi usado o VSCODE para partes de automação como o carrosel de imagens do site.
-### Quando foi feito o projeto:
-O projeto foi feito no segundo semestre de 2025 na aula de Desenvolvimento de Interface. Inicialmente, eu fiz no figma com algumas automacoes no próprio site e depois para ficar mais complexo o projeto foi terminado no VSCODE com outros tipos de automação.
+# Country Club Ace 🎾🌅
+
+## 🎯 Overview
+**Country Club Ace** is a frontend project for a fictional tennis club. It presents the club's activities, available programs, membership benefits, and pricing plans. 
+
+## 🛠️ Tech Stack & Implementation
+* **Figma:** Initial UI/UX wireframing and prototyping.
+* **HTML5 & CSS3:** Web structure and styling.
+* **Visual Studio Code (VS Code):** Development environment, utilizing custom automation features (such as an interactive image carousel).
+
+## 📅 Timeline & Context
+Developed in the **second semester of 2025** for an Interface Development class. The project started as a design prototype in Figma with built-in interactions and was later expanded and coded in VS Code for a more robust and complex implementation.
